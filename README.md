@@ -77,4 +77,4 @@ Mean Squared Error (MSE): High
 
 Here’s how the Electricity Bill Predictor app looks:
 
-![Electricity Bill Predictor]("C:\Users\malar\OneDrive\Pictures\Screenshots\Screenshot (344).png")
+![alt text](<Screenshot (344).png>)
